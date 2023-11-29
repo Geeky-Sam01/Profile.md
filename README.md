@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeky-sam01&label=Profile%20views&color=0e75b6&style=flat" alt="geeky-sam01" /> </p>
 
-- 🔭 I’m currently working on **Final Year Project and Book Recommendation System**
+- 🔭 I’m currently working on **SafeRoute**
 
-- 🌱 I’m currently learning **Numpy and Pandas**
+- 🌱 I’m currently learning **Flask and Javascript**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **New Project on Resume parser**
 
 - 📫 How to reach me **samannway1@gmail.com**
 
